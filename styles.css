@@ -7,11 +7,11 @@
 }
 
 :root {
-  --bg: #001220;
-  --bg-alt: #001d33;
-  --surface: #002b4d;
-  --surface-hover: #003a66;
-  --border: #004b80;
+  --bg: #012a4a;
+  --bg-alt: #013a63;
+  --surface: #01497c;
+  --surface-hover: #015c99;
+  --border: #006eb3;
   --text: #e0fbfc;
   --text-muted: #98c1d9;
   --accent: #00b4d8;
